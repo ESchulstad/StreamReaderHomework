@@ -48,6 +48,8 @@ namespace StreamReaderHomework
                   
             }
 
+            reader.Close();
+
             
               
 
